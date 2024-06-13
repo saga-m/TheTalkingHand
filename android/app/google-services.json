@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "891423271636",
+    "project_id": "glove-chat",
+    "storage_bucket": "glove-chat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:891423271636:android:7c7cc3b039ca0df6e2a941",
+        "android_client_info": {
+          "package_name": "com.example.glove_chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqc3rZ89wyvXnus3xLTFPb7jdt6vMjqOk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
